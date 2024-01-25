@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+def main():
+    "full_name": "Priyanshu Singla"
+    "Student_ID": "10312293"
+    "pizza_toppings": ["RED ONIONS", "TOMATO", "PEPPERS"],
+    "MOVIES": [
+        {   
+            "Title": "zoolander",
+            "genre": "comedy"
+        },
+        {
+            "title": "back to the future"
+            "genre": "sci-fi"
+        }
+    ]
